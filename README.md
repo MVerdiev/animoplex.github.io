@@ -1,2 +1,2 @@
 # animoplex.github.io
-Test üçün yaradılıb
+Test uchun yaradilib
